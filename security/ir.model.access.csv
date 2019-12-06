@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_vit_purches_aggrement_vit_purches_aggrement,vit_purches_aggrement.vit_purches_aggrement,model_vit_purches_aggrement_vit_purches_aggrement,,1,0,0,0
